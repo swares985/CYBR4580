@@ -1,0 +1,5 @@
+# Ignore everythting in this directory
+# Treat this directory as a scratch/working
+#  directory; anything you change here won't
+#  be pushed up for everyone to see.
+!.gitignore
